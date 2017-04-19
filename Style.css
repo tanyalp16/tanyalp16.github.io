@@ -1,0 +1,17 @@
+li{
+    font-family: monospace;
+}
+
+img{
+    width: 75%;
+    margin:auto;
+    display:block;
+}
+table{
+    background-color:#ffffff;
+    border:dotted;
+    border-color: #00ffff;
+}
+body{
+    background-color: #ffffe6;
+}
